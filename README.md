@@ -1,3 +1,11 @@
 # OP2 - Prediction of the Different Progressive Levels of Alzheimer's Disease with MRI data
 
-<object data="https://github.com/edaaydinea/OP2-Prediction-of-the-Different-Progressive-Levels-of-Alzheimer-s-Disease-with-MRI-data/blob/main/Eda%20AYDIN%20-%20Optional%20Project%202%20-%20Report.pdf" type="application/pdf" width="100%"></object>
+![](pictures_report/03.jpg)
+![](pictures_report/04.jpg)
+![](pictures_report/05.jpg)
+![](pictures_report/06.jpg)
+![](pictures_report/07.jpg)
+![](pictures_report/08.jpg)
+![](pictures_report/09.jpg)
+![](pictures_report/10.jpg)
+![](pictures_report/11.jpg)
